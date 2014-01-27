@@ -69,7 +69,7 @@ NUM_REQUEST_RETRIES = 3
 MAX_MULTI_REQUESTS = 5
 
 # Change this if your Python distribution has issues with Foursquare's SSL cert
-VERIFY_SSL = True
+VERIFY_SSL = False
 
 
 # Generic foursquare exception
